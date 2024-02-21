@@ -41,7 +41,6 @@
             this.SidePanel = new System.Windows.Forms.Panel();
             this.btnNuevaEnfermedad = new System.Windows.Forms.Button();
             this.btnEnfermedades = new System.Windows.Forms.Button();
-            this.btnIntegrantes = new System.Windows.Forms.Button();
             this.btnDiagnosticar = new System.Windows.Forms.Button();
             this.lbluser = new System.Windows.Forms.Label();
             this.lblIniciar = new System.Windows.Forms.Label();
@@ -134,7 +133,6 @@
             this.panel1.Controls.Add(this.SidePanel);
             this.panel1.Controls.Add(this.btnNuevaEnfermedad);
             this.panel1.Controls.Add(this.btnEnfermedades);
-            this.panel1.Controls.Add(this.btnIntegrantes);
             this.panel1.Controls.Add(this.btnDiagnosticar);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel1.Location = new System.Drawing.Point(0, 0);
@@ -150,7 +148,7 @@
             this.btnEtiqueta.ForeColor = System.Drawing.Color.White;
             this.btnEtiqueta.Image = global::Expert_Doctor.Properties.Resources.etique;
             this.btnEtiqueta.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnEtiqueta.Location = new System.Drawing.Point(6, 329);
+            this.btnEtiqueta.Location = new System.Drawing.Point(3, 288);
             this.btnEtiqueta.Name = "btnEtiqueta";
             this.btnEtiqueta.Size = new System.Drawing.Size(197, 54);
             this.btnEtiqueta.TabIndex = 6;
@@ -167,7 +165,7 @@
             this.btnAgregarSintomas.ForeColor = System.Drawing.Color.White;
             this.btnAgregarSintomas.Image = global::Expert_Doctor.Properties.Resources.sinto;
             this.btnAgregarSintomas.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnAgregarSintomas.Location = new System.Drawing.Point(6, 274);
+            this.btnAgregarSintomas.Location = new System.Drawing.Point(3, 233);
             this.btnAgregarSintomas.Name = "btnAgregarSintomas";
             this.btnAgregarSintomas.Size = new System.Drawing.Size(197, 54);
             this.btnAgregarSintomas.TabIndex = 5;
@@ -192,9 +190,9 @@
             this.btnNuevaEnfermedad.ForeColor = System.Drawing.Color.White;
             this.btnNuevaEnfermedad.Image = global::Expert_Doctor.Properties.Resources.nuevaenfe;
             this.btnNuevaEnfermedad.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnNuevaEnfermedad.Location = new System.Drawing.Point(12, 221);
+            this.btnNuevaEnfermedad.Location = new System.Drawing.Point(3, 174);
             this.btnNuevaEnfermedad.Name = "btnNuevaEnfermedad";
-            this.btnNuevaEnfermedad.Size = new System.Drawing.Size(197, 54);
+            this.btnNuevaEnfermedad.Size = new System.Drawing.Size(203, 54);
             this.btnNuevaEnfermedad.TabIndex = 4;
             this.btnNuevaEnfermedad.Text = "Nueva Enfermedad";
             this.btnNuevaEnfermedad.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
@@ -217,23 +215,6 @@
             this.btnEnfermedades.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnEnfermedades.UseVisualStyleBackColor = true;
             this.btnEnfermedades.Click += new System.EventHandler(this.btnEnfermedades_Click);
-            // 
-            // btnIntegrantes
-            // 
-            this.btnIntegrantes.FlatAppearance.BorderSize = 0;
-            this.btnIntegrantes.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnIntegrantes.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnIntegrantes.ForeColor = System.Drawing.Color.White;
-            this.btnIntegrantes.Image = global::Expert_Doctor.Properties.Resources.grup;
-            this.btnIntegrantes.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnIntegrantes.Location = new System.Drawing.Point(12, 166);
-            this.btnIntegrantes.Name = "btnIntegrantes";
-            this.btnIntegrantes.Size = new System.Drawing.Size(197, 54);
-            this.btnIntegrantes.TabIndex = 4;
-            this.btnIntegrantes.Text = "       Integrantes";
-            this.btnIntegrantes.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.btnIntegrantes.UseVisualStyleBackColor = true;
-            this.btnIntegrantes.Click += new System.EventHandler(this.btnIntegrantes_Click);
             // 
             // btnDiagnosticar
             // 
@@ -362,7 +343,6 @@
         private System.Windows.Forms.Panel SidePanel;
         private System.Windows.Forms.Button btnNuevaEnfermedad;
         private System.Windows.Forms.Button btnEnfermedades;
-        private System.Windows.Forms.Button btnIntegrantes;
         private System.Windows.Forms.Button btnDiagnosticar;
         private System.Windows.Forms.PictureBox btncerrar;
         private System.Windows.Forms.PictureBox pictureBox2;

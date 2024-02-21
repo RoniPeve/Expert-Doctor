@@ -147,9 +147,9 @@
             this.label4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(238)))), ((int)(((byte)(26)))), ((int)(((byte)(74)))));
             this.label4.Location = new System.Drawing.Point(18, 293);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(86, 21);
+            this.label4.Size = new System.Drawing.Size(107, 21);
             this.label4.TabIndex = 0;
-            this.label4.Text = "Password:";
+            this.label4.Text = "Contraseña:";
             this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // label3
@@ -159,9 +159,9 @@
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(238)))), ((int)(((byte)(26)))), ((int)(((byte)(74)))));
             this.label3.Location = new System.Drawing.Point(18, 209);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(98, 21);
+            this.label3.Size = new System.Drawing.Size(70, 21);
             this.label3.TabIndex = 0;
-            this.label3.Text = "User Name:";
+            this.label3.Text = "Usuario:";
             this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label8
@@ -183,9 +183,9 @@
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(238)))), ((int)(((byte)(26)))), ((int)(((byte)(74)))));
             this.label2.Location = new System.Drawing.Point(17, 155);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(101, 30);
+            this.label2.Size = new System.Drawing.Size(167, 30);
             this.label2.TabIndex = 0;
-            this.label2.Text = "Sign Up";
+            this.label2.Text = "Iniciar Sesión";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // lblcerrar
