@@ -1,0 +1,4 @@
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\CapaDatos\obj\Debug\CapaDatos.pdb

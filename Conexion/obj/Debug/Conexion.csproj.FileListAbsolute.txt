@@ -1,0 +1,6 @@
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Conexion\bin\Debug\Conexion.dll
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Conexion\bin\Debug\Conexion.pdb
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Conexion\obj\Debug\Conexion.dll
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Conexion\obj\Debug\Conexion.pdb
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Conexion\obj\Debug\Conexion.csprojAssemblyReference.cache
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Conexion\obj\Debug\Conexion.csproj.CoreCompileInputs.cache

@@ -1,0 +1,22 @@
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Expert Doctor\bin\Debug\Expert Doctor.exe.config
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Expert Doctor\bin\Debug\Expert Doctor.exe
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Expert Doctor\bin\Debug\Expert Doctor.pdb
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Expert Doctor\bin\Debug\Conexion.dll
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Expert Doctor\bin\Debug\Conexion.pdb
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Expert Doctor\obj\Debug\Expert_Doctor.Diagnosticar.resources
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Expert Doctor\obj\Debug\Expert_Doctor.Enfermedades.resources
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Expert Doctor\obj\Debug\Expert_Doctor.Menu.resources
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Expert Doctor\obj\Debug\Expert_Doctor.Integrantes.resources
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Expert Doctor\obj\Debug\Expert_Doctor.Properties.Resources.resources
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Expert Doctor\obj\Debug\Expert Doctor.csproj.GenerateResource.cache
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Expert Doctor\obj\Debug\Expert Doctor.exe
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Expert Doctor\obj\Debug\Expert Doctor.pdb
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Expert Doctor\obj\Debug\Expert_Doctor.Mensaje.resources
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Expert Doctor\obj\Debug\Expert_Doctor.IniciarSesion.resources
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Expert Doctor\obj\Debug\Expert_Doctor.NewEnfermedades.resources
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Expert Doctor\obj\Debug\Expert_Doctor.NewSintomas.resources
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Expert Doctor\obj\Debug\Expert_Doctor.Etiqueta.resources
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Expert Doctor\obj\Debug\Expert_Doctor.SplashScreen.resources
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Expert Doctor\obj\Debug\Expert Doctor.csprojAssemblyReference.cache
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Expert Doctor\obj\Debug\Expert Doctor.csproj.CoreCompileInputs.cache
+C:\Users\RONI\Documents\Visual Studio 2019\proyectos\Expert Doctor\Expert Doctor\obj\Debug\Expert Doctor.csproj.CopyComplete
